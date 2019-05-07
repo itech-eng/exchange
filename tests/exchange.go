@@ -1,8 +1,8 @@
 package tests
 
 import (
-	"github.com/qor/exchange"
-	"github.com/qor/qor/test/utils"
+	"github.com/itech-eng/exchange"
+	"github.com/itech-eng/qor/test/utils"
 )
 
 var (

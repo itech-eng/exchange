@@ -8,12 +8,12 @@ import (
 	"testing"
 
 	"github.com/360EntSecGroup-Skylar/excelize"
-	"github.com/qor/exchange"
-	"github.com/qor/exchange/backends/excel"
-	"github.com/qor/exchange/tests"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/qor/test/utils"
+	"github.com/itech-eng/exchange"
+	"github.com/itech-eng/exchange/backends/excel"
+	"github.com/itech-eng/exchange/tests"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/resource"
+	"github.com/itech-eng/qor/test/utils"
 )
 
 var db = utils.TestDB()

@@ -4,10 +4,10 @@ import (
 	"encoding/csv"
 	"fmt"
 
-	"github.com/qor/exchange"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/roles"
+	"github.com/itech-eng/exchange"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/resource"
+	"github.com/itech-eng/roles"
 )
 
 // NewWriter new csv writer
